@@ -22,13 +22,13 @@ export default function() {
             </div>
             <picture>
                 <source 
-                    srcset={ImageHeroDesktop}
+                    srcSet={ImageHeroDesktop}
                     alt="Group of people reading in a library"
                     media="(min-width: 1000px)"
                     className='hero__image'
                 />
                 <source 
-                    srcset={ImageHeroTablet}
+                    srcSet={ImageHeroTablet}
                     alt="Group of people reading in a library"
                     media="(min-width: 768px)"
                     className='hero__image'

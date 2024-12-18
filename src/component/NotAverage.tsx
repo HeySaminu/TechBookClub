@@ -14,13 +14,13 @@ export default function() {
             </div>
             <picture>
                 <source 
-                    srcset={ImageNotAverageDesktop}
+                    srcSet={ImageNotAverageDesktop}
                     alt="Group of people reading together in a library"
                     media="(min-width: 1000px)"
                     className='not_average__image'
                 />
                 <source 
-                    srcset={ImageNotAverageTablet}
+                    srcSet={ImageNotAverageTablet}
                     alt="Group of people reading together in a library"
                     media="(min-width: 768px)"
                     className='not_average__image'
