@@ -17,13 +17,13 @@ export default function() {
             </div>
             <picture>
                 <source 
-                    srcset={ImageReadTogetherDesktop}
+                    srcSet={ImageReadTogetherDesktop}
                     alt="Group of people reading together in a library"
                     media="(min-width: 1000px)"
                     className='read_together__image'
                 />
                 <source 
-                    srcset={ImageReadTogetherTablet}
+                    srcSet={ImageReadTogetherTablet}
                     alt="Group of people reading together in a library"
                     media="(min-width: 768px)"
                     className='read_together__image'
