@@ -9,7 +9,7 @@ import Membership from './component/Membership'
 
 function App() {
   return (
-    <>
+    <div id="root">
       <section className="site-wrapper">
       <Header />
         <main>
